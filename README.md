@@ -15,7 +15,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/TheBroderCodeMaster/Emojifi-Deobfuscator.git
+    git clone https://github.com/AshCodeeOfficial/Emojifi-Deobfuscator.git
     cd Emojifi-Deobfuscator
     ```
 
